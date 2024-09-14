@@ -56,3 +56,5 @@ You must follow the **SDLC process** to refactor the code:
    - Once you complete the refactorization, push your changes to your forked repository.
    - Create a pull request (PR) to the original repository, explaining the improvements you made and how you followed the **SDLC** approach.
 
+# AgeValidation.java
+   primero remplazamos el numero magico con una constante en este caso la constante AGE_LIMIT, luego mejoramos la estructura de if, remplazandola con el if-else para una mejor ejecucion, despues utlizamos la libreria Scanner para que el usuario pueda ejecutar el programa con sus propios valores y verifique la funcionalidad del programa y tenemos que al ingresar una edad mayor a 18 el acceso es permitido y menor a 18 el acceso es denegado.
